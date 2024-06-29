@@ -1,8 +1,4 @@
-# shadcn
-
-[![Built With Nuxt][build-with-nuxt-src]][build-with-nuxt-href]
-
-An unofficial Code::Stats dashboard made with Nuxt.
+![Hero](https://github.com/ZTL-UwU/codestats/assets/49156174/32b1dbc1-0084-4b62-aad1-60d64d037f55)
 
 ## Developing
 
@@ -13,6 +9,3 @@ An unofficial Code::Stats dashboard made with Nuxt.
 ## License
 
 MIT
-
-[build-with-nuxt-src]: https://img.shields.io/badge/Built%20With%20Nuxt-18181B?logo=nuxt.js
-[build-with-nuxt-href]: https://nuxt.com/
