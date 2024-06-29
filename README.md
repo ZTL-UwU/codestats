@@ -2,7 +2,9 @@
 
 [![Built With Nuxt][build-with-nuxt-src]][build-with-nuxt-href]
 
-## Usage
+An unofficial Code::Stats dashboard made with Nuxt.
+
+## Developing
 
 - Install the dependencies: `bun install`
 - Start the development server: `bun run dev`

@@ -30,6 +30,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.21.2",
+    "@iconify-json/lucide": "^1.1.196",
     "@vueuse/core": "^10.11.0",
     "@vueuse/nuxt": "^10.11.0",
     "eslint": "^9.6.0",

@@ -117,7 +117,8 @@
 </template>
 
 <script setup lang="ts">
-const username = useRoute().params.username;
+const { params } = useRoute();
+const username = params.slug[0];
 useHeadSafe({ title: `${username} - Code::Stats Dashboard` });
 
 interface IUserInfo {
